@@ -1,2 +1,34 @@
-# 8d78e4d2-ecommerce-shopify-event-sche
-missing messages, manually responding to routine requests at all hours costs you real money. This automation bot pays for itself in one use.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Ecommerce &amp; Shopify Event Scheduler And Rsvp Manag
+# eCommerce & Shopify Event Scheduler and RSVP Manager Bot
+
+Create events, manage RSVPs, send reminders, and track attendance. Community events without external tools.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E5kD6mX5wgbRScDWcZM2I)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E5kD6mX5wgbRScDWcZM2I)
+
